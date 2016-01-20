@@ -1,5 +1,7 @@
 # Git Money
 
+[![Join the chat at https://gitter.im/blakemiles/git-money](https://badges.gitter.im/blakemiles/git-money.svg)](https://gitter.im/blakemiles/git-money?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Git Money turns issues on GitHub into payable bounties. Bounties can be paid
 out for all kinds of issues requiring all sorts of things, such as code,
 graphics, content and more. Whatever an issue can be created for, a bounty can
